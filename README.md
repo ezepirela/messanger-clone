@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+app for messages build with React Js, like Messanger deployed with firebase.
 
 ## Available Scripts
 
